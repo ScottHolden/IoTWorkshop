@@ -1,0 +1,4 @@
+{
+    "watchDirectories": [ "Shared" ],
+    "functionTimeout": "00:05:00"
+  }
